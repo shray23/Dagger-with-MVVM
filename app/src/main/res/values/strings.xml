@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger Example</string>
+    <string name="_15sp">15sp</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="submit">Submit</string>
+</resources>
